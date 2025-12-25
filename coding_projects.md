@@ -19,3 +19,17 @@
 * [x] Make the concept for an ecripted and password protected sqlitedb
 * [ ] Change the code so that encrption key is not the same as the password.
 * [ ] Add the posibility to change the password
+
+
+This renders as a proper visual flowchart.
+
+---
+
+### 🔹 Mermaid flowchart basics
+```mermaid
+flowchart LR        %% LR = left to right, TD = top down
+    A[Process]
+    B{Decision}
+    C((Start/End))
+    A --> B
+    B -->|Yes| C
