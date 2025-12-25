@@ -17,4 +17,5 @@
 
 ## To do
 * [x] Make the concept for an ecripted and password protected sqlitedb
+* [ ] Change the code so that encrption key is not the same as the password.
 * [ ] Add the posibility to change the password
